@@ -3,7 +3,7 @@ import CustomLink from "../CustomLink/CustomLink";
 
 const Header = () => {
   return (
-    <div className="bg-cyan-500 text-white py-3 px-2 text-2x text-center">
+    <div className="bg-gray-500 text-white py-3 px-2 text-2x text-center">
       <CustomLink className="ml-4" to="/">
         Home
       </CustomLink>
