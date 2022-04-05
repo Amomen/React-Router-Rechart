@@ -8,10 +8,10 @@ const Header = () => {
         Home
       </CustomLink>
       <CustomLink className="ml-4" to="/reviwe">
-        Reviwe
+        Review
       </CustomLink>
       <CustomLink className="ml-4" to="/dashBord">
-        DashBord
+        Dash-Board
       </CustomLink>
       <CustomLink className="ml-4" to="/blog">
         Blog
