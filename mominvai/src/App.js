@@ -9,7 +9,7 @@ import Reviwe from "./Components/Reviwe/Reviwe";
 
 function App() {
   return (
-    <div className="App">
+    <div className="">
       <Header></Header>
       <Routes>
         <Route path="/" element={<Home />}></Route>
