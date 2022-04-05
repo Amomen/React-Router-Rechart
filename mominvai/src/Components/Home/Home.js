@@ -39,8 +39,8 @@ const Home = () => {
             <Reviews pd={pd} key={pd.id}></Reviews>
           ))}
         </div>
-        <Link className="mb-10" to="/reviwe">
-          <button className="py-3 px-2 hover:bg-orange-500 duration-300 bg-cyan-500 text-white border-2 rounded-lg text-2xl">
+        <Link className="mb-10 " to="/reviwe">
+          <button className="py-3 px-2  hover:bg-orange-500 duration-300 bg-cyan-500 text-white border-2 rounded-lg text-2xl">
             Reviwes All
           </button>
         </Link>
